@@ -1,0 +1,15 @@
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.csproj.AssemblyReference.cache
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.AssemblyInfoInputs.cache
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.AssemblyInfo.cs
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.csproj.CoreCompileInputs.cache
+D:\Practice\CS\Practice001\c#_practice\Task00\bin\Debug\net6.0\Task00.exe
+D:\Practice\CS\Practice001\c#_practice\Task00\bin\Debug\net6.0\Task00.deps.json
+D:\Practice\CS\Practice001\c#_practice\Task00\bin\Debug\net6.0\Task00.runtimeconfig.json
+D:\Practice\CS\Practice001\c#_practice\Task00\bin\Debug\net6.0\Task00.dll
+D:\Practice\CS\Practice001\c#_practice\Task00\bin\Debug\net6.0\Task00.pdb
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.dll
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\refint\Task00.dll
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.pdb
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\Task00.genruntimeconfig.cache
+D:\Practice\CS\Practice001\c#_practice\Task00\obj\Debug\net6.0\ref\Task00.dll
