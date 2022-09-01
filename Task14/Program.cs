@@ -1,4 +1,4 @@
-﻿// checks if number can be dividid by 7 and 23 with 0 remainder
+﻿// checks if number can be divided by 7 and 23 with 0 remainder
 Console.WriteLine("Please input number... ");
 int number = int.Parse(Console.ReadLine());
 
