@@ -1,0 +1,15 @@
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.csproj.AssemblyReference.cache
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.AssemblyInfoInputs.cache
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.AssemblyInfo.cs
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.csproj.CoreCompileInputs.cache
+D:\Practice\CS\Practice001\cs_practice\Task51\bin\Debug\net6.0\Task51.exe
+D:\Practice\CS\Practice001\cs_practice\Task51\bin\Debug\net6.0\Task51.deps.json
+D:\Practice\CS\Practice001\cs_practice\Task51\bin\Debug\net6.0\Task51.runtimeconfig.json
+D:\Practice\CS\Practice001\cs_practice\Task51\bin\Debug\net6.0\Task51.dll
+D:\Practice\CS\Practice001\cs_practice\Task51\bin\Debug\net6.0\Task51.pdb
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.dll
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\refint\Task51.dll
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.pdb
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\Task51.genruntimeconfig.cache
+D:\Practice\CS\Practice001\cs_practice\Task51\obj\Debug\net6.0\ref\Task51.dll
